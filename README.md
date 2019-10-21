@@ -8,6 +8,7 @@ Extreme thanks to https://www.snbforums.com/members/jyxent.31686/
 
 ---------------------------------------------------------------------------------------------------------------------------
 2019-06-23 jyxent:
+
 I got this recently when it was on sale, and have successfully flashed OpenWrt on it. The process is a little involved, but I'm satisfied with the results.
 
 There are two pages that I found with the needed instructions (They're in Chinese. I just used Google Translate.).
