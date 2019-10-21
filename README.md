@@ -1,5 +1,5 @@
 # Phicomm_K3
-Phicomm K3 (not K3c) Data Dump\
+Phicomm K3 (not K3c) Data Dump
 
 Google Drive Link
 [Phicomm K3](https://drive.google.com/file/d/1Ne0cfeJaO40-oQRr71ObIBD7xsGqn1Fn)
