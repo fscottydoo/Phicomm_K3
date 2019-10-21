@@ -32,4 +32,5 @@ For some reason, the firmware for the 4366 wireless modules that is included in 
 https://github.com/Hill-98/phicommk3-firmware
 
 With that change, it is working well now.
----------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
