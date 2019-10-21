@@ -27,7 +27,7 @@ To flash the image, you must have a tftp server running on your machine. You mus
 
 If you used 192.168.2.2 as your static ip, the following link will run a command to flash the image.
 
-(http: //192.168.2.1/do.htm?cmd=flash...rt-bcm53xx-phicomm-k3-squashfs.trx+flash0.trx
+(http: //192.168.2.1/do.htm?cmd=flash...rt-bcm53xx-phicomm-k3-squashfs.trx+flash0.trx)
 
 I performed a nvram erase after the command finished and rebooted into openwrt.
 
