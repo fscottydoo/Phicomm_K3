@@ -1,8 +1,10 @@
 # Phicomm_K3
-Phicomm K3 (not K3c) Data Dump
+Phicomm K3 (not K3c) Data Dump\
+Google Drive Link
+[Phicomm K3](https://drive.google.com/file/d/1Ne0cfeJaO40-oQRr71ObIBD7xsGqn1Fn)
+
 
 https://www.snbforums.com/threads/phicomm-k3-not-k3c-discussion.49109/
-
 The link above leads to the original information I used to flash OpenWRT onto my Phicomm K3 router.
 Extreme thanks to https://www.snbforums.com/members/jyxent.31686/
 
